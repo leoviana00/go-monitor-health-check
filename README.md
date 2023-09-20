@@ -10,3 +10,9 @@
 5. Monitorar tempo de resposta
 6. Lista de serviços externos e internos
 7. Intervalo de check - customizado para cada serviço
+
+## Run
+
+```
+go run main.go lista-servidores.csv
+```
