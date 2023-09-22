@@ -13,6 +13,7 @@
 
 ## Run
 
+- Rodando o serviço passando os 2 argumentos necessários
 ```
-go run main.go lista-servidores.csv
+go run main.go lista-servidores.csv downtime.csv
 ```
